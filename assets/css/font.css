@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+@font-face {
+    font-family: 'Inter-Light';
+    font-style: normal;
+    src: url('~assets/fonts/Inter/Inter-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    src: url('~assets/fonts/Inter/Inter-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    font-style: normal;
+    src: url('~assets/fonts/Inter/Inter-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-SemiBold';
+    font-style: normal;
+    src: url('~assets/fonts/Inter/Inter-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Bold';
+    font-style: normal;
+    src: url('~assets/fonts/Inter/Inter-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-ExtraBold';
+    font-style: normal;
+    src: url('~assets/fonts/Inter/Inter-ExtraBold.ttf');
+}
