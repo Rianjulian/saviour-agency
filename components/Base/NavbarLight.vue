@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full group absolute text-[#082D54] flex items-center">
+  <div class="w-full group absolute text-[#082D54] flex items-center z-10">
     <div class="hidden w-full relative text-[#082D54] lg:flex items-center py-4">
       <div class="w-full h-full group-hover:bg-gradient-to-b group-hover:to-transparent absolute" :class="[color]">
         <div class="h-full w-full relative">
@@ -28,7 +28,7 @@
     </div>
 
     <!-- Mobile and Tab View -->
-    <div class="block lg:hidden w-full fixed top-0 bg-white">
+    <div class="block lg:hidden w-full fixed top-0 bg-white z-50">
       <div class="absolute right-0 z-10">
         <div class="h-[14vh] w-[14vh] flex pl-12 items-center">
           <img v-if="!toggle_menu" @click="toggle_menu = true" src="~assets/icons/hamburger-black.svg"

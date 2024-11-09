@@ -68,7 +68,7 @@
     </div>
 
     <!-- Mobile and Tab View -->
-    <div class="block lg:hidden w-full fixed top-0" :style="{ backgroundColor: menuBackgroundColor }">
+    <div class="block lg:hidden w-full fixed top-0 z-50" :style="{ backgroundColor: menuBackgroundColor }">
       <div class="absolute right-0 z-10">
         <div class="h-[15vh] w-[15vh] md:h-[10vh] flex pl-12 items-center">
           <img v-if="!toggle_menu" @click="toggle_menu = true" src="~assets/icons/hamburger-black.svg"
