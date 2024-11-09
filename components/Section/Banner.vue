@@ -1,10 +1,10 @@
 <template>
     <div>
-        <div class="flex justify-items-center gap-y-10 my-40 px-24">
-            <div class="flex bg-[#2D333A] justify-items-center items-center gap-x-10 h-full rounded-3xl">
-                <div class="flex flex-col gap-y-10 h-full w-full pl-16">
+        <div class="w-full flex justify-items-center gap-y-10 px-5 my-40 lg:px-24">
+            <div class="flex flex-col bg-[#2D333A] justify-items-center items-center gap-x-10 h-full rounded-3xl md:flex-row">
+                <div class="flex flex-col gap-y-10 h-full w-full pl-5 pt-5 md:py-10 md:pl-16">
                     <div class="flex flex-col justify-center gap-y-5 items-start h-full w-full">
-                        <h1 class="text-white text-5xl w-full font-bold">Punya Pertanyaan Lain?</h1>
+                        <h1 class="text-white text-3xl md:text-4xl lg:text-5xl w-full font-bold">Punya Pertanyaan Lain?</h1>
                         <div class="flex flex-col gap-y-4">
                             <p class="text-white text-xl">Silahkan hubungi Saviour Agency untuk pertanyaan dan kendala
                                 lainnya melalui whatsapp</p>

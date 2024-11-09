@@ -5,7 +5,7 @@
                 <div
                     class="w-full mb-5 flex flex-col items-center text-3xl font-Inter font-bold text-black lg:text-5xl md:mb-20">
                     <p class="text-sm font-black uppercase">Kenapa Saviour</p>
-                    <h1 class="text-4xl capitalize bg-gradient-to-r from-yellow-500 via-orange-400 to-orange-500 bg-clip-text text-transparent">
+                    <h1 class="text-4xl text-center capitalize bg-gradient-to-r from-yellow-500 via-orange-400 to-orange-500 bg-clip-text text-transparent md:text-left">
                         Keunggulan yang kami miliki
                     </h1>
                 </div>

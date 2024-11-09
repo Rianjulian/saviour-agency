@@ -15,7 +15,7 @@
                         pelayanan yang Profesional.</p>
                 </div>
             </div>
-            <div class="flex gap-x-4 justify-center items-center">
+            <div class="flex flex-col gap-y-20 gap-x-4 justify-center items-center md:flex-row">
                 <div class="marquee-wrapper">
                     <div class="container">
                         <div class="marquee-block">
