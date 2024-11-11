@@ -11,9 +11,7 @@
         </div>
         <div
           class="h-fit font-Inter font-medium tracking-wide hover:text-custom-yellow cursor-pointer hover:opacity-80 select-none text-base">
-          <nuxt-link to="/">
-            saviouragency@gmail.com
-          </nuxt-link>
+          <a href="mailto:saviouragency.indonesia@gmail.com?subject=Konsultasi%20Layanan%20Saviour%20Agency">saviouragency.indonesia@gmail.com</a>
         </div>
       </div>
     </div>

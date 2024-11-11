@@ -29,7 +29,8 @@
               target="_blank">
               0858-1010-0007
             </a>
-            <nuxt-link to="/" class="hover:text-yellow-300">saviouragency@gmail.com</nuxt-link>
+            <a class="hover:text-yellow-300" href="mailto:saviouragency.indonesia@gmail.com?subject=Konsultasi%20Layanan%20Saviour%20Agency">saviouragency.indonesia@gmail.com</a>
+            <!-- <nuxt-link to="/" class="hover:text-yellow-300">saviouragency.indonesia@gmail.com</nuxt-link> -->
           </div>
         </div>
         <div class="w-[30%] flex flex-col space-y-4">
