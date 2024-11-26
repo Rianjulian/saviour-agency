@@ -53,7 +53,7 @@
                                             <img src="~assets/images/review.png" alt="" class="w-16">
                                             <p class="font-normal text-left">"Pengerjaan cepat dan sesuai permintaan
                                                 customer, dengar
-                                                harga yg murah. Terimakasih Pulpin"</p>
+                                                harga yg murah. Terimakasih Saviour Agency"</p>
                                         </div>
                                         <div class="flex items-center gap-x-4">
                                             <img src="~assets/images/testimonial/passa.png" alt="" class="w-10">
@@ -92,7 +92,7 @@
                                         class="marquee-item flex flex-col justify-items-center gap-y-5 bg-neutral-100 bg-opacity-10 text-white px-8 py-4 rounded">
                                         <p class="font-normal text-left">"Pengerjaan cepat dan sesuai permintaan
                                             customer, dengar
-                                            harga yg murah. Terimakasih Pulpin"</p>
+                                            harga yg murah. Terimakasih Saviour Agency"</p>
                                         <div class="flex items-center gap-x-4">
                                             <img src="~assets/images/testimonial/passa.png" alt="" class="w-10">
                                             <p class="font-bold font-capitalize">passa dharmais</p>
@@ -123,7 +123,7 @@
                                         class="marquee-item flex flex-col justify-items-center gap-y-5 bg-neutral-100 bg-opacity-10 text-white px-8 py-4 rounded">
                                         <div class="flex flex-col gap-y-4">
                                             <img src="~assets/images/review.png" alt="" class="w-16">
-                                            <p class="font-normal text-left">"Terima kasih Pulpin Management telah membuatkan logo usaha kami. Walaupun dengan pembayaran kami yg seikhlasnya tapi tetap dilayani dengan baik. Hasilnya usaha kami bisa berjalan sampai saat ini... Terima kasih Pulpin Management semoga makin berkembang & sukses... Tuhan memberkati..."
+                                            <p class="font-normal text-left">"Terima kasih Saviour Agency Management telah membuatkan logo usaha kami. Walaupun dengan pembayaran kami yg seikhlasnya tapi tetap dilayani dengan baik. Hasilnya usaha kami bisa berjalan sampai saat ini... Terima kasih Saviour Agency Management semoga makin berkembang & sukses... Tuhan memberkati..."
                                             </p>
                                         </div>
                                         <div class="flex items-center gap-x-4">
@@ -159,7 +159,7 @@
                                         class="marquee-item flex flex-col justify-items-center gap-y-5 bg-neutral-100 bg-opacity-10 text-white px-8 py-4 rounded">
                                         <div class="flex flex-col gap-y-4">
                                             <img src="~assets/images/review.png" alt="" class="w-16">
-                                            <p class="font-normal text-left">"Terima kasih Pulpin Management telah membuatkan logo usaha kami. Walaupun dengan pembayaran kami yg seikhlasnya tapi tetap dilayani dengan baik. Hasilnya usaha kami bisa berjalan sampai saat ini... Terima kasih Pulpin Management semoga makin berkembang & sukses... Tuhan memberkati..."
+                                            <p class="font-normal text-left">"Terima kasih Saviour Agency Management telah membuatkan logo usaha kami. Walaupun dengan pembayaran kami yg seikhlasnya tapi tetap dilayani dengan baik. Hasilnya usaha kami bisa berjalan sampai saat ini... Terima kasih Saviour Agency Management semoga makin berkembang & sukses... Tuhan memberkati..."
                                             </p>
                                         </div>
                                         <div class="flex items-center gap-x-4">
