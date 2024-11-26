@@ -12,7 +12,7 @@
                 </div>
                 <div class="w-full h-full grid gap-y-10 gap-x-20 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3">
                     <div
-                        class="bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
+                        class="hover:shadow-xl transition-all bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
                         <img src="~assets/images/keunggulan-kami/proses.svg" class="w-16 lg:w-12" />
                         <div class="text-xl text-black font-medium font-Inter">
                             Proses Cepat & Garansi Waktu
@@ -23,7 +23,7 @@
                         </p>
                     </div>
                     <div
-                        class="bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
+                        class="hover:shadow-xl transition-all bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
                         <img src="~assets/images/keunggulan-kami/konsultasi.svg" class="w-16 lg:w-12" />
                         <div class="text-xl text-black font-medium font-Inter">
                             Gratis Konsultasi
@@ -33,7 +33,7 @@
                             memulai!</p>
                     </div>
                     <div
-                        class="bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
+                        class="hover:shadow-xl transition-all bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
                         <img src="~assets/images/keunggulan-kami/profesional.svg" class="w-16 lg:w-12" />
                         <div class="text-xl text-black font-medium font-Inter">
                             Layanan Profesional
@@ -43,7 +43,7 @@
                             profesional</p>
                     </div>
                     <div
-                        class="bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
+                        class="hover:shadow-xl transition-all bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
                         <img src="~assets/images/keunggulan-kami/layanan.svg" class="w-16 lg:w-12" />
                         <div class="text-xl text-black font-medium font-Inter">
                             Layanan Lengkap
@@ -51,7 +51,7 @@
                         <p class="text-gray-600 leading-loose text-sm">Dari pendirian PT, CV, PMA, Yayasan, hingga berbagai kebutuhan legal usaha Anda.</p>
                     </div>
                     <div
-                        class="bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
+                        class="hover:shadow-xl transition-all bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
                         <img src="~assets/images/keunggulan-kami/harga.svg" class="w-16 lg:w-12" />
                         <div class="text-xl text-black font-medium font-Inter">
                             Harga Terjangkau
@@ -60,7 +60,7 @@
                             Nikmati harga paling kompetitif dengan layanan yang lengkap dan berkualitas.</p>
                     </div>
                     <div
-                        class="bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
+                        class="hover:shadow-xl transition-all bg-[#ffffff] w-auto flex flex-col gap-x-5 gap-y-5 px-5 py-6 rounded-md | md:px-10 md:py-12">
                         <img src="~assets/images/keunggulan-kami/legal.svg" class="w-16 lg:w-12" />
                         <div class="text-xl text-black font-medium font-Inter">
                             Legalitas Terjamin
