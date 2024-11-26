@@ -17,14 +17,20 @@
                     </h1>
                 </div>
                 <div class="">
-                    <p class="w-full whitespace-pre-wrap">Saviour Agency selalu mengedepankan kebutuhan klien kami, dengan fokus pada pemberian layanan yang dipersonalisasi dan solusi yang tepat guna untuk mencapai tujuan mereka. Kami berdedikasi untuk memahami setiap detail kebutuhan klien yang inovatif dan efektif.</p>
+                    <p class="w-full whitespace-pre-wrap">Saviour Agency hadir untuk membantu Anda dalam berbagai kebutuhan legalitas usaha, digital marketing, sosial media handle, live streaming (shopping) hingga surat izin usaha mulai dari SBU (konstruksi), PIRT, BPOM hingga pengurusan konsultasi pajak di antaranya:</p>
                 </div>
                 <div class="pl-5">
                     <ul class="list-disc flex flex-col gap-y-2">
+                        <li>Pendirian Badan Usaha</li>
+                        <li>Perizinan Usaha</li>
+                        <li>Pembukaan Rekening Perusahaan</li>
+                        <li>Konsultasi Bidang Usaha</li>
+                        <li>Desain & Digital Branding</li>
+                        <li>Layanan Tambahan</li>
                         <li>Digital Marketing</li>
-                        <li>The Legality of the Company</li>
-                        <li>Live Streaming Shopping Platform</li>
-                        <li>Law Firm Agency</li>
+                        <li>Jasa Bantuan Hukum</li>
+                        <li>Konsultan Pajak</li>
+                        <li>Izin lainnya</li>
                     </ul>
                 </div>
             </div>
