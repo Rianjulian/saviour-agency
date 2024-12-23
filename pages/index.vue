@@ -35,8 +35,21 @@ export default {
   },
   methods: {
     async getData() {
-      const data = await this.$axios.$get('/banners?populate=*')
-      this.banner = data.data[0].attributes.bannerSlider.data;
+      try {
+        const response = await this.$axios.$get('/banners?populate=*');
+        this.banner = response.data.map(item => ({
+          id: item.id,
+          link: item.attributes.link,
+          images: item.attributes.bannerSlider.data.map(image => ({
+            id: image.id,
+            name: image.attributes.name,
+            url: image.attributes.formats.large?.url || image.attributes.url,
+          })),
+        }));
+        console.log(this.banner);
+      } catch (error) {
+        console.error('Error fetching banner data:', error);
+      }
     },
     scrollToSection(section) {
       const sectionEl = this.$refs[section];

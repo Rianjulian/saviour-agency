@@ -18,11 +18,11 @@
                         <div class="text-xl text-black font-medium font-Inter">
                             Digital Marketing
                         </div>
-                        <p class="text-gray-600 leading-normal text-sm">Meningkatkan Brand Anda dengan Strategi yang
-                            Profesional dan Efektif.</p>
+                        <p class="text-gray-600 leading-normal text-sm">Live streaming (shopping) melalui TIKTOK/SHOPPE ditambah dengan social media handle
+                            untuk perusahaan/personal anda.</p>
                         <h1 class="text-yellow-500 text-2xl mt-1 font-bold">Mulai Rp 1,9 Juta</h1>
                         <a class="h-fit font-Inter text-white font-semibold bg-yellow-400 py-2 mt-5 rounded-full flex items-center justify-center"
-                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20anda"
+                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20Digital%20Marketing"
                             target="_blank">
                             Lihat Detail <img src="~assets/icons/chevron.svg" alt="My Icon" class="h-7 w-7" />
                         </a>
@@ -40,7 +40,7 @@
                             hasil dan keahlian terbaik</p>
                         <h1 class="text-yellow-500 text-2xl mt-1 font-bold">Mulai Rp 2,9 Juta</h1>
                         <a class="h-fit font-Inter text-white font-semibold bg-yellow-400 py-2 mt-5 rounded-full flex items-center justify-center"
-                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20anda"
+                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20Talent%20Management"
                             target="_blank">
                             Lihat Detail <img src="~assets/icons/chevron.svg" alt="My Icon" class="h-7 w-7" />
                         </a>
@@ -54,13 +54,12 @@
                         class="bg-[#ffffff] shadow-lg w-auto flex flex-col gap-x-5 gap-y-2 px-5 py-6 rounded-md | md:px-8 md:py-10">
                         <img src="~assets/images/layanan/media.png" class="w-16 lg:w-32" />
                         <div class="text-xl text-black font-medium font-Inter">
-                            Media Handle
+                            Press Release/Conference
                         </div>
-                        <p class="text-gray-600 leading-normal text-sm">Jasa Media Handle dengan Kebutuhan dan
-                            Profesionalisme dalam Setiap Kampanye</p>
+                        <p class="text-gray-600 leading-normal text-sm">Jasa Press Release/Conference dengan Membuat release dan menyebarkan ke berbagai media baik online/cetak</p>
                         <h1 class="text-yellow-500 text-2xl mt-1 font-bold">Mulai Rp 1,5 Juta</h1>
                         <a class="h-fit font-Inter text-white font-semibold bg-yellow-400 py-2 mt-5 rounded-full flex items-center justify-center"
-                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20anda"
+                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20Press%20Release/Conference"
                             target="_blank">
                             Lihat Detail <img src="~assets/icons/chevron.svg" alt="My Icon" class="h-7 w-7" />
                         </a>
@@ -80,7 +79,7 @@
                         </p>
                         <h1 class="text-yellow-500 text-2xl mt-1 font-bold">Mulai Rp 1,5 Juta</h1>
                         <a class="h-fit font-Inter text-white font-semibold bg-yellow-400 py-2 mt-5 rounded-full flex items-center justify-center"
-                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20anda"
+                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20Website%20Development"
                             target="_blank">
                             Lihat Detail <img src="~assets/icons/chevron.svg" alt="My Icon" class="h-7 w-7" />
                         </a>
@@ -96,11 +95,10 @@
                         <div class="text-xl text-black font-medium font-Inter">
                             Law Firm Agency
                         </div>
-                        <p class="text-gray-600 leading-normal text-sm">Paket pendirian PT dan CV secara cepat, lengkap,
-                            dan profesional.</p>
+                        <p class="text-gray-600 leading-normal text-sm">Konsultasi hukum perdata ataupun pidana serta pendampingan masalah hukum secara professional</p>
                         <h1 class="text-yellow-500 text-2xl mt-1 font-bold">Mulai Rp 1,5 Juta</h1>
                         <a class="h-fit font-Inter text-white font-semibold bg-yellow-400 py-2 mt-5 rounded-full flex items-center justify-center"
-                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20anda"
+                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20Law%20Firm%20Agency"
                             target="_blank">
                             Lihat Detail <img src="~assets/icons/chevron.svg" alt="My Icon" class="h-7 w-7" />
                         </a>
@@ -120,7 +118,7 @@
                             Desain Grafis untuk Bisnis Anda</p>
                         <h1 class="text-yellow-500 text-2xl mt-1 font-bold">Mulai Rp 1,5 Juta</h1>
                         <a class="h-fit font-Inter text-white font-semibold bg-yellow-400 py-2 mt-5 rounded-full flex items-center justify-center"
-                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20anda"
+                            href="https://wa.me/6285810100007?text=Halo Saviour Agency,%20saya%20tertarik%20untuk%20konsultasi%20layanan%20Design%20Graphic"
                             target="_blank">
                             Lihat Detail <img src="~assets/icons/chevron.svg" alt="My Icon" class="h-7 w-7" />
                         </a>
