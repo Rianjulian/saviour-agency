@@ -22,6 +22,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center right;
+  background-color: rgb(237, 237, 237);
 }
 </style>
   

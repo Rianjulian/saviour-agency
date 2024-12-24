@@ -52,6 +52,112 @@
         </div>
       </div>
     </div>
+
+    <!-- Tab View -->
+    <div class="w-full bg-white flex justify-center">
+      <div class="hidden md:block lg:hidden font-OpenSans container pt-20">
+        <div class="flex flex-col items-center justify-center">
+          <div class="flex flex-col bg-white mt-8 items-center justify-items-center w-full gap-y-5">
+            <div class="w-full">
+              <vueper-slides autoplay
+                class="no-shadow"
+                :visible-slides="1"
+                :bullets="true"
+                :arrows="true"
+                :arrows-outside="false"
+                :slide-ratio="3 / 5"
+              >
+                <!-- Render each banner item -->
+                <vueper-slide v-for="(item, i) in banner" :id="`slide-${i}`" :key="i">
+                  <template #content>
+                    <div class="vueperslide__content-wrapper" style="flex-direction: row;">
+                      <div class="w-full bg-white h-full rounded-2xl">
+                        <div class="h-fit flex justify-center">
+                          <!-- Wrap the image in a clickable link -->
+                          <a
+                            :href="item.link"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="w-full h-full"
+                          >
+                            <img
+                              v-if="item.images?.[0]?.url"
+                              class="block object-cover w-full h-full"
+                              :src="getImageUrl(item.images[0].url)"
+                              :alt="item.images[0].name || 'Banner Image'"
+                            />
+                          </a>
+                          <!-- Fallback image with no link -->
+                          <!-- <img
+                            v-else
+                            class="block object-cover w-full h-full"
+                            :src="fallbackImage"
+                            alt="Fallback Banner"
+                          /> -->
+                        </div>
+                      </div>
+                    </div>
+                  </template>
+                </vueper-slide>
+              </vueper-slides>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile View -->
+    <div class="w-full bg-white flex justify-center">
+      <div class="md:hidden font-OpenSans container">
+        <div class="flex flex-col items-center justify-center">
+          <div class="flex flex-col bg-white mt-8 items-center justify-items-center w-full gap-y-5">
+            <div class="w-full">
+              <vueper-slides autoplay
+                class="no-shadow"
+                :visible-slides="1"
+                :bullets="true"
+                :arrows="true"
+                :arrows-outside="true"
+                :slide-ratio="3 / 5"
+              >
+                <!-- Render each banner item -->
+                <vueper-slide v-for="(item, i) in banner" :id="`slide-${i}`" :key="i">
+                  <template #content>
+                    <div class="vueperslide__content-wrapper" style="flex-direction: row;">
+                      <div class="w-full bg-white h-fit rounded-2xl">
+                        <div class="h-fit flex justify-center">
+                          <!-- Wrap the image in a clickable link -->
+                          <a
+                            :href="item.link"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="w-full h-full"
+                          >
+                            <img
+                              v-if="item.images?.[0]?.url"
+                              class="object-cover w-full"
+                              :src="getImageUrl(item.images[0].url)"
+                              :alt="item.images[0].name || 'Banner Image'"
+                            />
+                          </a>
+                          <!-- Fallback image with no link -->
+                          <!-- <img
+                            v-else
+                            class="block object-cover w-full h-full"
+                            :src="fallbackImage"
+                            alt="Fallback Banner"
+                          /> -->
+                        </div>
+                      </div>
+                    </div>
+                  </template>
+                </vueper-slide>
+              </vueper-slides>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -82,7 +188,7 @@ export default {
      * @returns {string} - The full image URL.
      */
     getImageUrl(url) {
-      const baseUrl = process.env.BASE_URL || "http://localhost:1337"; // Update with your actual base URL
+      const baseUrl = process.env.BASE_URL || "http://103.127.138.155:1337"; // Update with your actual base URL
       return `${baseUrl}${url}`;
     },
   },
