@@ -3,8 +3,8 @@
         <div class="grid lg:grid-cols-2 gap-x-10 w-full py-10 lg:py-0 px-4 pb-20 lg:px-28 lg:pt-14" id="about">
             <div class="flex justify-center items-center">
                 <div class="w-full h-full">
-                    <img src="~/assets/images/image-tentang.png"
-                        class="h-[60vh] w-96 object-cover rounded-tr-[50px] md:rounded-none md:w-full lg:h-full" />
+                    <img src="~/assets/images/tentang-image.jpeg"
+                        class="h-[60vh] w-96 object-contain rounded-tr-[50px] md:rounded-none md:w-full lg:h-full" />
                 </div>
             </div>
             <div
