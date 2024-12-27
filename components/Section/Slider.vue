@@ -188,7 +188,7 @@ export default {
      * @returns {string} - The full image URL.
      */
     getImageUrl(url) {
-      const baseUrl = process.env.BASE_URL || "http://103.127.138.155:1337"; // Update with your actual base URL
+      const baseUrl = process.env.BASE_URL || "https://cms.saviour.agency"; // Update with your actual base URL
       return `${baseUrl}${url}`;
     },
   },
